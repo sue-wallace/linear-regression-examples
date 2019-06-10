@@ -9,7 +9,7 @@
 # Using what you find as a guide, construct a model of some aspect of the data.
 # Use the model to answer the question you started with, and validate your results.
 
-# Predicting cherry tree volume using a linear refression model (being able to determin
+# Predicting cherry tree volume using a linear regression model (being able to determin
 # a signal through nosie)
 
 # Load libraries----
